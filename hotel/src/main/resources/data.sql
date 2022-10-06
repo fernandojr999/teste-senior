@@ -1,0 +1,1 @@
+Insert into pessoa (nome, cpfcnpj) values ('Fernando', '12025654065')
